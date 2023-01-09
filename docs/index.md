@@ -1,11 +1,10 @@
 ---
+title: Dumi Demo
 hero:
   title: Site
   description: Dumi Demo for single npm package or multiple npm package
   actions:
-    - text: Hello
-      link: /
-    - text: World
+    - text: Getting Started
       link: /
 features:
   - title: Hello
